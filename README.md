@@ -1,1 +1,2 @@
-# BiweeklySubmission6
+# Biweekly Submission 6
+Himal Rawal
