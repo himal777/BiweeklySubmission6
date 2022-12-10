@@ -1,13 +1,13 @@
 using System;
 
-namespace SydneyCoffee
+namespace Nepal Coffee
 {
     class Program
     {
         static void Main(string[] args)
         {
             // Declaring N and allocating a value
-            int n = 2;
+            int n = 5;
             // declaring arrays to store data
             String[] name = new string[n];
             int[] quantity = new int[n];
@@ -20,7 +20,7 @@ namespace SydneyCoffee
             String maxName = "";
             int beanCount;
             // Welcome message
-            Console.WriteLine("\t\t\t\tWelcome to use Sydney Coffee Program\n");
+            Console.WriteLine("\t\t\t\tWelcome to use Nepal Coffee Program\n");
 
             // Loop to get the inputs
             for (int i = 0; i < n; i++)
